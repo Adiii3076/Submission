@@ -1,0 +1,7 @@
+Many restaurants and cafeterias are storing all of their data in manual way. 
+They have huge number of customers daily, so practically it is being very
+difficult. To overcome this problem and to avoid last minute rush and confusion 
+about membership I have developed a website using HTML,CSS,JavaScript.
+Main body is developed by using HTML and design is using CSS and logic for
+the website is developed by using JavaScript.So by using this website customers 
+can easily checkout specials of the cafe and get easy access to the information about Cafe.
